@@ -118,7 +118,11 @@ SQL-Pizza-Sales-Analysis
 
 ## 📄 Project Report
 
-A detailed project report is included in this repository, documenting the complete SQL analysis, methodology, business questions, SQL queries, and key insights obtained from the dataset.
+The complete project report provides a detailed explanation of the project, including the dataset, SQL queries, outputs, business questions, methodology, and key insights.
+
+📥 **View the complete project report here:**
+
+➡️ **[SQL Pizza Sales Analysis Report](Report/SQL_Pizza_Sales_Analysis_Project.pdf)**
 
 ---
 
