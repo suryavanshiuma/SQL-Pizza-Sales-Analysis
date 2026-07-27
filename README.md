@@ -19,6 +19,10 @@ A relational database was created by importing four CSV datasets and establishin
 
 ## 🗂 Dataset Information
 
+### Database Schema
+
+![Database Schema](Images/Database_Schema_Tables.png)
+
 The project is based on four related datasets:
 
 | Table | Description |
